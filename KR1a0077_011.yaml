@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR1a0077/krp/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 東魯韋前之太極一畫誰牽北巖篐外之遺編三分猶剩造化之初有易神明之用在人目孰徹於大方喙並馳於各牖蘭澧隱者卭蜀巽卿以手輯一家之言而髓探三聖之旨天機獨露揭之自本自根日用互明穀以見仁見知象數之源畢具性命之理全彰勘辨諸方拈提最義習齊田氏居延漠英吻合針鋒發光毫楮研朱㸃勘月標鶴洞之元副墨刊傳冰釋鵝湖之辨矧運值同文之世冝家有嚮道之書廬􅨦於此同參皋比為之勇撤龍圖現瑞豈但拓光芒滎洛之間象度截流于以贊聲教跋提之外明明指喻的的心宗延祐三年十一月望日前進士長沙李琳書
+  hash: sha256:49c632d97aa4ff5c586fd010ddf1a3dcda4b59aea4075b6f92df6346e4d92aae
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1a0077_WYG_011-1a, image: WYG0024/WYG0024-0300a.png}
+metadata:
+  title: 大易緝說
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 21:56:42.610178'
+  juan_title: 後序
+  source:
+    repository: kanripo
+    path: KR1a0077/KR1a0077_011.txt
+hash: sha256:64d2babfc3762a835fa07d25610ee586989021dee62e0479c49b7ea1a9fe0680
