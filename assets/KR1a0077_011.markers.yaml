@@ -11,6 +11,7 @@ markers:
 
       ', id: KR1a0077_krp_011-bkkkrnewl2}
   - {type: line-break, offset: 21, content: '', id: KR1a0077_WYG_011-1a02}
+  - {type: substitution, offset: 21, original: 剰, replacement: 剩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20681}}
   - {type: 'kr:newline', offset: 42, content: '
 
       ', id: KR1a0077_krp_011-bkkkrnewl3}
@@ -27,14 +28,21 @@ markers:
 
       ', id: KR1a0077_krp_011-bkkkrnewl6}
   - {type: line-break, offset: 105, content: '', id: KR1a0077_WYG_011-1a06}
+  - {type: substitution, offset: 116, original: 脗, replacement: 吻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16517}}
+  - {type: substitution, offset: 118, original: 箴, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20164}}
   - {type: 'kr:newline', offset: 126, content: '
 
       ', id: KR1a0077_krp_011-bkkkrnewl7}
   - {type: line-break, offset: 126, content: '', id: KR1a0077_WYG_011-1a07}
+  - {type: substitution, offset: 126, original: 㸃, replacement: 點, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-6519}}
+  - {type: substitution, offset: 136, original: 栞, replacement: 刊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16235}}
+  - {type: substitution, offset: 140, original: 鵞, replacement: 鵝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17483}}
   - {type: 'kr:newline', offset: 147, content: '
 
       ', id: KR1a0077_krp_011-bkkkrnewl8}
   - {type: line-break, offset: 147, content: '', id: KR1a0077_WYG_011-1a08}
+  - {type: substitution, offset: 163, original: 叅, replacement: 參, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19566}}
+  - {type: substitution, offset: 166, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'kr:newline', offset: 168, content: '
 
       ', id: KR1a0077_krp_011-bkkkrnewl9}
@@ -47,6 +55,9 @@ markers:
 
       ', id: KR1a0077_krp_011-bkkkrnewl11}
   - {type: line-break, offset: 189, content: '', id: KR1a0077_WYG_011-1b02}
+  - {type: substitution, offset: 189, original: 賛, replacement: 贊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17775}}
+  - {type: substitution, offset: 191, original: 敎, replacement: 教, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20071}}
+  - {type: substitution, offset: 192, original: 䟦, replacement: 跋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19443}}
   - {type: 'kr:newline', offset: 210, content: '
 
       ', id: KR1a0077_krp_011-bkkkrnewl12}
@@ -55,4 +66,4 @@ markers:
 
       ', id: KR1a0077_krp_011-bkkkrnewl13}
   back: []
-hash: sha256:db6349b3051109b007f7d0d5f10a73eab266e27d3506dc3dda88468767ea841d
+hash: sha256:2ed0e99052435805d925761992cdc4d0c5c97d9a4247898757d29a80b98ee09c
